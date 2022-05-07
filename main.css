@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.breed {
+  width: 140px;
+  height: 140px;
+  margin: 10px;
+  background-color: #6a538a;
+  border: 3px solid black;
+}
